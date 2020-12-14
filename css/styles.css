@@ -10149,3 +10149,10 @@ section.resume-section .resume-section-content {
   font-size: 1rem;
   font-weight: 100;
 }
+.menu{
+  float: left;
+  padding-left: 58px !important;
+}
+.table th, .table td {
+  border-bottom: 1px solid #dee2e6;
+}
